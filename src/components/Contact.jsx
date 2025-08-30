@@ -4,7 +4,7 @@ export default function Contact() {
       <div className="max-w-xl mx-auto">
         <h2 className="text-3xl font-semibold mb-6">Contact Me</h2>
         <form 
-  action="https://formsubmit.co/ibadmughal@gmail.com" 
+  action="https://formsubmit.co/ibadalimughal@gmail.com" 
   method="POST"
   className="space-y-4"
 >

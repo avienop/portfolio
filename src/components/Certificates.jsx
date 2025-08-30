@@ -12,6 +12,10 @@ const certificates = [
     provider: "Cisco Networking Academy",
     file: "/js1Cert.pdf"
   },
+     {title: "Front-End Developer",
+    provider: "HAcker Rank",
+    file: "/frontend_developer_react certificate.pdf"
+  },
   
 ];
 

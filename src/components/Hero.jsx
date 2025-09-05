@@ -87,13 +87,13 @@ export default function Hero() {
           >
             Contact
           </a>
-         <a
-  href="/IbadAliMughal.pdf"
-  download="Ibad_Ali_Mughal_Resume.pdf"
-  className="bg-green-600 px-6 py-2 rounded-full text-white hover:bg-green-500"
->
-  Download Resume
-</a>
+          <a
+            href="/IbadAliMughal.pdf"
+            download="Ibad_Ali_Mughal_Resume.pdf"
+            className="bg-green-600 px-6 py-2 rounded-full text-white hover:bg-green-500"
+          >
+            Download Resume
+          </a>
 
         </div>
       </motion.div>
